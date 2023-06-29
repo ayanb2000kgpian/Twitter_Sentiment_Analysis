@@ -24,7 +24,7 @@ Here in our data no columns containing nan values and duplicate data values are 
 2. Train model using different classifier algorithms like Gaussian Naive Bayes,Multinomial Naive Bayes,Bernoulli Naive Bayes,Logistic Regression and compare the accuracy and precision score.
 3. Choose model based on higher accuracy and precision score.
 
-Here we can see the accuracy and precision scores for various models which include Gaussian Naive Bayes,Multinomial Naive Bayes,Bernoulli Naive Bayes,Logistic Regression
+Here we can see the accuracy and precision scores for various models which include Gaussian Naive Bayes,Multinomial Naive Bayes,Bernoulli Naive Bayes and Logistic Regression.
 ![twitter_sentiment_analysis - Jupyter Notebook - Opera 29-06-2023 23_08_02](https://github.com/ayanb2000kgpian/Twitter_Sentiment_Analysis/assets/138036625/15e053a1-53b6-4813-86c9-fd493112aa93)
 
 
